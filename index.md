@@ -7,18 +7,6 @@ layout: padrao
 
 <section class="sample-text-area">
     <div class="container">
-        <div class="card text-center">
-            <div class="card-header">
-                <h2 class="section-title">
-                  23th - 27th September, 2019 
-                </h2>
-            </div>
-        </div>
-    </div>
-</section>
-<br>
-<section class="sample-text-area">
-    <div class="container">
       <h3 class="text-center text-black mb-25">X BRAZILIAN CONFERENCE ON SOFTWARE: THEORY AND PRACTICE (CBSOFT)</h3>
       <div class="text-justify text-black">
         <p>The Brazilian Conference on Software: Theory and Practice (CBSoft) is an annual event promoted by the
