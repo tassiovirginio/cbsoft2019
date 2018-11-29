@@ -24,7 +24,8 @@ url: "http://tassiovirginio.com" # the base hostname & protocol for your site, e
 twitter_username: cbsoft2019
 instagram_username: cbsoft2019
 github_username:  tassiovirginio
-
+encoding: utf-8
+timezone: America/Bahia
 
 # Build settings
 markdown: kramdown
