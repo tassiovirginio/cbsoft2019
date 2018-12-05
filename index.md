@@ -1,5 +1,6 @@
 ---
 layout: padrao
+permalink: /
 ---
 
 <section class="sample-text-area">
