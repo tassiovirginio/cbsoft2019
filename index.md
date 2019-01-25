@@ -19,7 +19,7 @@ layout: padrao
           IV Brazilian Symposium on Systematic and Automated Software Testing (SAST 2019)</p>
         <p>The conference includes technical sessions, national and international keynotes, panels, tutorials and short
           courses. In 2019, the 10th edition of CBSoft will be held in Salvador/BA.</p>
-        <p><strong><em>We look forward to seeing you all in Salvador, between September 23rd and 27st, 2019!</em></strong></p>
+        <p><strong><em>We look forward to seeing you all in Salvador, between September 23rd and 27th, 2019!</em></strong></p>
         <!-- <p>Elisa, Rosana, Valter, Auri, Daniel, and Lucas.</p> -->
       </div>
     </div>
