@@ -1,6 +1,6 @@
 ---
 layout: event
-title: REGISTRATION
+title: DOWNLOAD
 ---
 
 <div>
