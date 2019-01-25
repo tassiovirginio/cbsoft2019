@@ -4,7 +4,7 @@ layout: pt/padrao
 
 <section class="sample-text-area">
     <div class="container">
-      <h3 class="text-center text-black mb-25" style="font-size:5vmin;">X CONFERÊNCIA BRASILEIRA DE SOFTWARE: TEORIA E PRÁTICA (CBSOFT)</h3>
+      <h3 class="text-center text-black mb-25" style="font-size:5vmin;">X CONGRESSO BRASILEIRO DE SOFTWARE: TEORIA E PRÁTICA (CBSOFT)</h3>
       <div class="text-justify text-black">
         <p>A Conferência Brasileira de Software: Teoria e Prática (CBSoft) é um evento anual promovido pela Sociedade Brasileira de Computação (SBC), com o objetivo de promover e incentivar a troca de experiências entre pesquisadores e praticantes da indústria e academia sobre as últimas pesquisas, tendências e inovações - práticas e teóricas - sobre software. Realizado desde 2010, o CBSoft se tornou um dos mais importantes eventos da comunidade científica brasileira de computação, e a cada ano o número de submissões de artigos científicos e participantes vem aumentando.</p>
         <p>O CBSoft 2019 integra quatro eventos tradicionais organizados pela comunidade brasileira de desenvolvimento de software:</p>
