@@ -1,5 +1,5 @@
 ---
-layout: padrao
+layout: pt/padrao
 ---
 
 <section class="sample-text-area">
