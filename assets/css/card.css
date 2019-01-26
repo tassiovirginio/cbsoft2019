@@ -194,7 +194,7 @@
 }
 
 .card2.hovercard .cardheader {
-    background-color: #343a40;
+    background-image: url("/assets/images/avatar_background.jpg");
     background-size: cover;
     height: 70px;
 }
