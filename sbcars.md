@@ -1,7 +1,6 @@
 ---
 layout: event
 title: XIII Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)
-#permalink: /sbcars
 ---
 
 The Brazilian Symposium on Software Components,Architectures, and Reuse (SBCARS) is promoted by the Brazilian Computer
