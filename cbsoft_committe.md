@@ -360,7 +360,59 @@ title: CBSOFT 2019 Committee
 ---
 
 ### SAST'19:
- - TBD
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/fotos_committee/adenilso.gif">
+                </div>
+                <div class="info">
+                    <div class="title">Adenilso Simão</div>
+                    <div class="desc">ICMC/USP</div>
+                </div>
+               <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/9836776931160228">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:adenilso@icmc.usp.br">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="http://www.icmc.usp.br/~adenilso/">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/fotos_committee/elder.gif">
+                </div>
+                <div class="info">
+                    <div class="title">Elder Macedo Rodrigues</div>
+                    <div class="desc">UNIPAMPA</div>
+                </div>
+               <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/5733269259864085">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:elderrodrigues@unipampa.edu.br">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="http://novoportal.unipampa.edu.br/alegrete/docente/17670/dados-gerais">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+	</div>
+</div>
 
 ---
 
@@ -418,6 +470,8 @@ title: CBSOFT 2019 Committee
         </div>
 	</div>
 </div>
+
+---
  
 ### CBSoft'19 Tools Session:
 
@@ -474,6 +528,8 @@ title: CBSOFT 2019 Committee
 	</div>
 </div>
 
+---
+
 ### CBSoft'19 Industry Track:
 
 <div class="container">
@@ -507,8 +563,178 @@ title: CBSOFT 2019 Committee
 	</div>
 </div>
 
+---
+
 ### CBSoft'19 Tutorials:
 - TBD
 
+---
+
 ### CBSoft'19 Workshops:
 - TBD
+
+---
+
+### Web Chair
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/fotos_committee/railana.png">
+                </div>
+                <div class="info">
+                    <div class="title">Railana Santana</div>
+                    <div class="desc">
+                    <a target="_blank" href="https://www.ufba.br/">UFBA</a>
+                    </div>
+                </div>
+               <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/9613056483292884">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:mailto:railanassantana@gmail.com">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="https://github.com/Railana">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/fotos_committee/tassio.jpg">
+                </div>
+                <div class="info">
+                    <div class="title">Tássio Virgínio</div>
+                    <div class="desc">
+                        <a target="_blank" href="https://www.ufba.br/">UFBA</a>
+                    </div>
+                </div>
+                <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/0517470966104640">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:mailto:tassiovirginio@gmail.com">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="https://tassiovirginio.com">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+	</div>
+</div>
+
+---
+
+### Social Media Chairs 
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/fotos_committee/nildo.png">
+                </div>
+                <div class="info">
+                    <div class="title">Nildo Junior</div>
+                    <div class="desc">
+                    <a target="_blank" href="https://www.ufba.br/">UFBA</a>
+                    </div>
+                </div>
+               <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/3857937888187398">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:nildocsjr@gmail.com">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="#">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+	</div>
+</div>
+
+---
+
+### Proceedings Chair 
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/fotos_committee/rodrigo_rocha.gif">
+                </div>
+                <div class="info">
+                    <div class="title">Rodrigo Rocha</div>
+                    <div class="desc">
+                    <a target="_blank" href="https://www.ufba.br/">UFBA</a>
+                    </div>
+                </div>
+               <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/7697794806460975">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:mailto:rodrigorgs@gmail.com">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="https://rodrigorgs.github.io/">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+	</div>
+</div>
+
+---
+
+### Student Volunteers Chair 
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/fotos_committee/larisa.png">
+                </div>
+                <div class="info">
+                    <div class="title">Larissa Rocha</div>
+                    <div class="desc">
+                    <a target="_blank" href="https://www.ufba.br/">UFBA</a>
+                    </div>
+                </div>
+               <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/5750570352089990">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:mailto:lari.rsoares@gmail.com">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="#">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+	</div>
+</div>
