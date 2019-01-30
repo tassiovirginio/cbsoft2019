@@ -565,16 +565,6 @@ title: CBSOFT 2019 Committee
 
 ---
 
-### CBSoft'19 Tutorials:
-- TBD
-
----
-
-### CBSoft'19 Workshops:
-- TBD
-
----
-
 ### Web Chair
 
 <div class="container">
@@ -738,3 +728,13 @@ title: CBSOFT 2019 Committee
         </div>
 	</div>
 </div>
+
+### CBSoft'19 Tutorials:
+- TBD
+
+---
+
+### CBSoft'19 Workshops:
+- TBD
+
+---
