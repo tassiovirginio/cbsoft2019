@@ -3,6 +3,26 @@ layout: event
 title: Promotional Material
 ---
 
+# Call for Papers
+<br>
+<hr/>
+
+# Images
 <div>
-    <h2 class="sub-title2 text-center" style="color: red;"><b>TO BE DEFINED</b></h2>
+    <a href="assets/images/baianinhas.svg" target="_blank">
+        <img src="assets/images/baianinhas.svg" style="width: 100%; max-width: 240px; height: auto;"/>
+    </a>
+    <br/>
+    Logo em SVG
+    <br/>
+    <hr/>
+    <br/>
+     <a href="assets/images/logo.png" target="_blank">
+        <img src="assets/images/logo.png" style="width: 100%; max-width: 240px; height: auto;"/>
+    </a>
+    <br/>
+    Logo em PNG
+    <br/>
+    <br/>
 </div>
+
