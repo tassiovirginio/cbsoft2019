@@ -1,19 +1,14 @@
 ---
 layout: event
 title: XXIII Brazilian Symposium on Programming Languages
-#permalink: /sblp
 ---
-
-- Universidade Federal da Bahia - UFBA
-- Salvador, Brazil, September 23-27, 2019
-- Conference website: [cbsoft2019.ufba.br](http://cbsoft2019.ufba.br)
-- Submission link: [easychair.org](https://easychair.org/conferences/?conf=sblp2019)
 
 SBLP 2019 is the 23nd edition of the Brazilian Symposium on Programming Languages. It is promoted by the Brazilian Computer Society (SBC) and constitutes a forum for researchers, students and professionals to present and discuss ideas and innovations in the design, definition, analysis, implementation and practical use of programming languages.
 
 
 SBLP's first edition was in 1996. Since 2010, it is part of CBSoft, the Brazilian Conference on Software: Theory and Practice [cbsoft2019.ufba.br](http://cbsoft2019.ufba.br). 
 
+- Submission link: [easychair.org](https://easychair.org/conferences/?conf=sblp2019)
 
 # Submission Guidelines
 ______________________
