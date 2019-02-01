@@ -65,6 +65,41 @@ ____
 
 ___
 
+# Chair / Contact
+
+All questions about submissions should be emailed to:
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/persons/rodrigo_ribeiro.jpg">
+                </div>
+                <div class="info">
+                    <div class="title">Rodrigo Ribeiro</div>
+                    <div class="desc">UFOP</div>
+                </div>
+               <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/4921269815228128">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:rodrigo.ribeiro@ufop.edu.br">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="http://rodrigogribeiro.github.io">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+	</div>
+</div>
+
+---
+
 # Program Committee
 
 <table>
@@ -102,7 +137,6 @@ ___
 <tr><td>Renato Cerqueira</td><td>IBM Research, Brazil</td></tr>
 <tr><td>Roberto	Bigonha</td><td>Universidade Federal de Minas Gerais</td></tr>
 <tr><td>Roberto	Ierusalimschy</td><td>Pontifícia Universidade Católica do Rio de Janeiro</td></tr>
-<tr><td>Rodrigo Ribeiro</td><td>Universidade Federal de Ouro Preto (Chair)</td></tr>
 <tr><td>Sérgio Medeiros</td><td>Universidade Federal do Rio Grande do Norte</td></tr>
 <tr><td>Simon Thompson</td><td>University of Kent</td></tr>
 <tr><td>Varmo Vene</td><td>University of Tartu</td></tr>
@@ -115,11 +149,7 @@ ___
 
 # Invited Speaker
 
-Beta Ziliani, Universidad Nacional de Córdoba.
+<table>
+<tr><td>Beta Ziliani</td><td>Universidad Nacional de Córdoba</td></tr>
+</table>
 
-____
-
-# Contact 
-
-All questions about submissions should be emailed to Rodrigo Ribeiro
-(rodrigo.ribeiro@ufop.edu.br)
