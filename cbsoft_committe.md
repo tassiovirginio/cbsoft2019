@@ -565,6 +565,66 @@ title: CBSOFT 2019 Committee
 
 ---
 
+### CBSoft'19 Workshops:
+<div class="container">
+	<div class="row">
+		<div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/fotos_committee/fabiano_ferrari.png">
+                </div>
+                <div class="info">
+                    <div class="title">Fabiano Ferrari</div>
+                    <div class="desc">
+                    UFSCar
+                    </div>
+                </div>
+               <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/3154345471250570">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:fabiano@dc.ufscar.br">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="http://lapes.dc.ufscar.br/members/faculties/fabiano-ferrari">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+            <div class="card2 hovercard">
+                <div class="cardheader">
+                </div>
+                <div class="avatar">
+                    <img src="assets/images/fotos_committee/everton_alves.png">
+                </div>
+                <div class="info">
+                    <div class="title">Everton Alves</div>
+                    <div class="desc">
+                    UFCG
+                    </div>
+                </div>
+               <div class="bottom">
+                    <a target="_blank" href="http://lattes.cnpq.br/2793969744497453">
+                        <img style="height:30px;" src="assets/images/lattes.png" />
+                    </a>
+                    <a target="_blank" href="mailto:everton@computacao.ufcg.edu.br">
+                        <img style="height:30px;" src="assets/images/email.png" />
+                    </a>
+                    <a target="_blank" href="#">
+                        <img style="height:30px;" src="assets/images/site.png" />
+                    </a>
+                </div>
+            </div>
+        </div>
+	</div>
+</div>
+
+---
+
 ### Web Chair
 
 <div class="container">
@@ -682,7 +742,7 @@ title: CBSOFT 2019 Committee
                     <a target="_blank" href="http://lattes.cnpq.br/7697794806460975">
                         <img style="height:30px;" src="assets/images/lattes.png" />
                     </a>
-                    <a target="_blank" href="mailto:mailto:rodrigorgs@gmail.com">
+                    <a target="_blank" href="mailto:rodrigorgs@gmail.com">
                         <img style="height:30px;" src="assets/images/email.png" />
                     </a>
                     <a target="_blank" href="https://rodrigorgs.github.io/">
@@ -717,7 +777,7 @@ title: CBSOFT 2019 Committee
                     <a target="_blank" href="http://lattes.cnpq.br/5750570352089990">
                         <img style="height:30px;" src="assets/images/lattes.png" />
                     </a>
-                    <a target="_blank" href="mailto:mailto:lari.rsoares@gmail.com">
+                    <a target="_blank" href="mailto:lari.rsoares@gmail.com">
                         <img style="height:30px;" src="assets/images/email.png" />
                     </a>
                     <a target="_blank" href="#">
@@ -729,12 +789,9 @@ title: CBSOFT 2019 Committee
 	</div>
 </div>
 
-### CBSoft'19 Tutorials:
-- TBD
-
 ---
 
-### CBSoft'19 Workshops:
+### CBSoft'19 Tutorials:
 - TBD
 
 ---
